@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Eduardo Amorim 
 
-<!--
-**EduardoAmorimGit/EduardoAmorimGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Backend Java | Git & GitHub | SQL
 
-Here are some ideas to get you started:
+🎯 Desenvolvedor em formação com foco em Java e backend
+🛠️ Estudando: Java, MySQL, Git e GitHub
+📚 Cursando Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+### [🚗 Sistema Concessionária Carango](https://github.com/EduardoAmorimGit/sistema-concessionaria-carango)
+Sistema de gestão de descontos desenvolvido em Java com interface console
+
+## 📫 Conecte-se Comigo
+📧 eduardoamorim2005@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/eduardo-amorim-6b66b322b/)
+Tel (21) 97023-0543 ou (21) 99111-4882
+
+---
+
+*"Código bom resolve problemas reais"*
