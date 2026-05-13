@@ -1,21 +1,10 @@
-# 👋 Eduardo Amorim 
+# Olá, eu sou Eduardo Amorim! 👋
 
-**Desenvolvedor Backend Java | Git & GitHub | SQL
+Sou um Desenvolvedor de Software focado em Java.
 
-🎯 Desenvolvedor em formação com foco em Java e backend
-🛠️ Estudando: Java, MySQL, Git e GitHub
-📚 Cursando Análise e Desenvolvimento de Sistemas
+* 🔭 Trabalhando em: Sistema Imobiliário.
+* 🚀 Principais tecnologias: Java, SQL, Git / Github.
+* 🎓 Estudando: POO, AWS, API.
+* 📫 Contato: www.linkedin.com/in/eduardosiamorim
 
-## 🚀 Projetos
-
-### [🚗 Sistema Concessionária Carango](https://github.com/EduardoAmorimGit/sistema-concessionaria-carango)
-Sistema de gestão de descontos desenvolvido em Java com interface console
-
-## 📫 Conecte-se Comigo
-📧 eduardoamorim2005@gmail.com  
-💼 [LinkedIn] https://www.linkedin.com/in/eduardosiamorim/
-    Tel (21) 97023-0543 ou (21) 99111-4882
-
----
-
-*"Código bom resolve problemas reais"*
+### 🛠 Tecnologias e Ferramentas
