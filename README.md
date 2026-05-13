@@ -8,4 +8,4 @@ Sou um Desenvolvedor de Software focado em Java.
 * 📫 Contato: www.linkedin.com/in/eduardosiamorim
 
 ### 🛠 Tecnologias e Ferramentas
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Java](https://shields.io)
