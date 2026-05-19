@@ -2,9 +2,9 @@
 
 Sou um Desenvolvedor de Software focado em Java.
 
-* 🔭 Trabalhando em: Sistema Imobiliário.
+* 🔭 Trabalhando em: Sistema Imobiliário com regras de negócios reais.
 * 🚀 Principais tecnologias: Java, SQL, Git / Github.
-* 🎓 Estudando: POO, AWS, API.
+* 🎓 Estudando: POO, CRUD, SPRING, AWS, API, POSTGRESQL.
 * 📫 Contato: www.linkedin.com/in/eduardosiamorim
 
 ### 🛠 Tecnologias e Ferramentas
