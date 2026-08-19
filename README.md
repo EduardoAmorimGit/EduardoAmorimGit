@@ -1,10 +1,10 @@
 # Olá, eu sou Eduardo Amorim! 👋
 
-Sou um Desenvolvedor de Software focado em Java.
+Desenvolvedor Backend 
 
 * 🔭 Trabalhando em: Sistema Imobiliário com regras de negócios reais.
-* 🚀 Principais tecnologias: Java, SQL, Git / Github.
-* 🎓 Estudando: POO, CRUD, SPRING, AWS, API, POSTGRESQL.
+* 🚀 Principais tecnologias: Java | Spring Boot | APIs REST | PostgreSQL | MongoDB | Git & Github | CI/CD
+* 🎓 Estudando: MICROSSERVIÇOS
 * 📫 Contato: www.linkedin.com/in/eduardosiamorim
 
 ### 🛠 Tecnologias e Ferramentas
