@@ -8,13 +8,11 @@ Construo APIs REST com Java e Spring Boot, com foco em regras de negócio bem mo
 * 🎓 Estudando: microsserviços, mensageria e boas práticas de arquitetura
 * 📫 Contato: [LinkedIn](https://www.linkedin.com/in/eduardosiamorim)
 
-### 🚀 Projetos em destaque
+### Projetos
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| [**AutoParts**](https://github.com/EduardoAmorimGit/AutoParts) | API de catálogo de autopeças com consulta por placa (API externa), compatibilidade peça × veículo, segurança e testes | Spring Boot 4, PostgreSQL, Flyway, Docker, JUnit |
-| [**Agendador de tarefas**](https://github.com/EduardoAmorimGit/agendador-tarefas) | Sistema em 3 microsserviços: [usuários + JWT](https://github.com/EduardoAmorimGit/usuario), [tarefas](https://github.com/EduardoAmorimGit/agendador-tarefas) e [notificação por e-mail](https://github.com/EduardoAmorimGit/notificacao) | Spring Boot 4, PostgreSQL, MongoDB, OpenFeign, JWT, GitHub Actions |
-| [**Sistema Imobiliário**](https://github.com/EduardoAmorimGit/sistema-imobiliario-java) | Gestão de imóveis com regras de negócio do setor (em evolução para API REST) | Java |
+<a href="https://github.com/EduardoAmorimGit/AutoParts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/autoparts-dark.svg"><img src="assets/autoparts-light.svg" alt="AutoParts" width="49%"></picture></a>
+<a href="https://github.com/EduardoAmorimGit/agendador-tarefas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/agendador-dark.svg"><img src="assets/agendador-light.svg" alt="Agendador de Tarefas" width="49%"></picture></a>
+<a href="https://github.com/EduardoAmorimGit/sistema-imobiliario-java"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/imobiliario-dark.svg"><img src="assets/imobiliario-light.svg" alt="Sistema Imobiliário" width="49%"></picture></a>
 
 ### 🛠 Tecnologias e Ferramentas
 
